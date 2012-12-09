@@ -72,7 +72,7 @@ namespace NetduinoPlusApplication1
 
 
 
-            string RealtimeResults = m.Groups[1].ToString();
+            
             return RealtimeResults;
         }
     }

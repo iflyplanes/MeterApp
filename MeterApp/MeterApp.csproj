@@ -46,11 +46,14 @@
     <Reference Include="System" />
     <Reference Include="System.Text.RegularExpressions" />
     <Reference Include="System.Xml" />
+    <Reference Include="Toolbox.NETMF">
+      <HintPath>..\..\..\..\..\Desktop\NetMF Toolbox\Release (4.2)\Toolbox.NETMF.dll</HintPath>
+    </Reference>
     <Reference Include="Toolbox.NETMF.NET">
-      <HintPath>bin\Debug\Toolbox.NETMF.NET.dll</HintPath>
+      <HintPath>..\..\..\..\..\Desktop\NetMF Toolbox\Release (4.2)\Toolbox.NETMF.NET.dll</HintPath>
     </Reference>
     <Reference Include="Toolbox.NETMF.NET.Integrated">
-      <HintPath>bin\Debug\Toolbox.NETMF.NET.Integrated.dll</HintPath>
+      <HintPath>..\..\..\..\..\Desktop\NetMF Toolbox\Release (4.2)\Toolbox.NETMF.NET.Integrated.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
